@@ -1,6 +1,6 @@
-### Name: Nipun Verma
-### Roll no: 101903796
-### Batch: 4CO19
+Name: Nipun Verma
+Roll no: 101903796
+Batch: 4CO19
 
 ## Objective
 #### To perform predictions of Parameter 9-13 from the given dataset for every Section.
